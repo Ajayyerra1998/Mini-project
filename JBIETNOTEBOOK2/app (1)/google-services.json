@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "834407938524",
+    "firebase_url": "https://jbiet-notebook.firebaseio.com",
+    "project_id": "jbiet-notebook",
+    "storage_bucket": "jbiet-notebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834407938524:android:44987deb8ee44dee",
+        "android_client_info": {
+          "package_name": "com.example.ajay.jbietnotebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834407938524-hkdf1va0cg4jfff5m4hntid381ettf6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkm3k6JnJWoPsTMgEnKxhL6D7tFbMfu_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834407938524-hkdf1va0cg4jfff5m4hntid381ettf6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

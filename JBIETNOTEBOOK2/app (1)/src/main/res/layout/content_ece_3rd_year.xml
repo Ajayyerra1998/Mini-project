@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg18"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Ece_3rdYear"
+    tools:showIn="@layout/activity_ece_3rd_year">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="45dp"
+        android:text="SUBJECTIVE"
+        android:textColor="@android:color/black"
+        android:textSize="30dp"
+        android:textStyle="italic" />
+
+    <HorizontalScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:scrollbars="horizontal"
+        android:scrollbarSize="0dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="100dp"
+                android:background="@drawable/mybutton"
+                android:text="Operating Systems"
+                android:textSize="17dp"
+                android:clickable="true"
+                android:textColor="#FFFFFF"
+                />
+
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="100dp"
+                android:background="@drawable/mybutton"
+                android:text="Operating Systems"
+                android:textSize="17dp"
+                android:clickable="true"
+                android:textColor="#FFFFFF"
+                />
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="100dp"
+                android:background="@drawable/mybutton"
+                android:text="Operating Systems"
+                android:textSize="17dp"
+                android:clickable="true"
+                android:textColor="#FFFFFF"
+                />
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="100dp"
+                android:background="@drawable/mybutton"
+                android:text="Operating Systems"
+                android:textSize="17dp"
+                android:clickable="true"
+                android:textColor="#FFFFFF"
+                />
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="100dp"
+                android:background="@drawable/mybutton"
+                android:text="Operating Systems"
+                android:textSize="17dp"
+                android:clickable="true"
+                android:textColor="#FFFFFF"
+                />
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="100dp"
+                android:background="@drawable/mybutton"
+                android:text="Operating Systems"
+                android:textSize="17dp"
+                android:clickable="true"
+                android:textColor="#FFFFFF"
+                />
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="100dp"
+                android:background="@drawable/mybutton"
+                android:text="Operating Systems"
+                android:textSize="17dp"
+                android:clickable="true"
+                android:textColor="#FFFFFF"
+                />
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="100dp"
+                android:background="@drawable/mybutton"
+                android:text="Operating Systems"
+                android:textSize="17dp"
+                android:clickable="true"
+                android:textColor="#FFFFFF"
+                />
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="100dp"
+                android:background="@drawable/mybutton"
+                android:text="Operating Systems"
+                android:textSize="17dp"
+                android:clickable="true"
+                android:textColor="#FFFFFF"
+                />
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="285dp"
+        android:layout_marginStart="27dp"
+        android:text="LABS"
+        android:textColor="@android:color/black"
+        android:textSize="35dp"
+        android:textStyle="italic"/>
+
+    <HorizontalScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="250dp"
+        android:layout_marginTop="250dp"
+        android:layout_alignParentTop="true"
+        android:scrollbars="horizontal"
+        android:scrollbarSize="0dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="100dp"
+                android:background="@drawable/mybutton"
+                android:text="Operating Systems"
+                android:textSize="17dp"
+                android:clickable="true"
+                android:textColor="#FFFFFF"
+                />
+
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="100dp"
+                android:background="@drawable/mybutton"
+                android:text="Operating Systems"
+                android:textSize="17dp"
+                android:clickable="true"
+                android:textColor="#FFFFFF"
+                />
+
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="100dp"
+                android:background="@drawable/mybutton"
+                android:text="Operating Systems"
+                android:textSize="17dp"
+                android:clickable="true"
+                android:textColor="#FFFFFF"
+                />
+
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="100dp"
+                android:background="@drawable/mybutton"
+                android:text="Operating Systems"
+                android:textSize="17dp"
+                android:clickable="true"
+                android:textColor="#FFFFFF"
+                />
+
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+</RelativeLayout>

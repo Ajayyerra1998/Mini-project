@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ajay.jbietnotebook">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".UserActivity"
+            android:label="@string/title_activity_user"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/title_activity_login"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Registeration_Activity"
+            android:label="@string/title_activity_registeration_"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".eee"
+            android:label="@string/title_activity_eee"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".cse"
+            android:label="@string/title_activity_cse"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ecm"
+            android:label="@string/title_activity_ecm"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".it"
+            android:label="@string/title_activity_it"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ece"
+            android:label="@string/title_activity_ece"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".mech"
+            android:label="@string/title_activity_mech"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".civil"
+            android:label="@string/title_activity_civil"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".mining"
+            android:label="@string/title_activity_mining"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Cse_1stYear"
+            android:label="@string/title_activity_cse_1st_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Cse_2ndYear"
+            android:label="@string/title_activity_cse_2nd_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Cse_3rdYear"
+            android:label="@string/title_activity_cse_3rd_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Cse_4thYear"
+            android:label="@string/title_activity_cse_4th_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Ece_1stYear"
+            android:label="@string/title_activity_ece_1st_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Ece_2ndYear"
+            android:label="@string/title_activity_ece_2nd_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Ece_3rdYear"
+            android:label="@string/title_activity_ece_3rd_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Ece_4thYear"
+            android:label="@string/title_activity_ece_4th_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".It_1stYear"
+            android:label="@string/title_activity_it_1st_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".It_2ndYear"
+            android:label="@string/title_activity_it_2nd_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".It_3rdYear"
+            android:label="@string/title_activity_it_3rd_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".It_4thyear"
+            android:label="@string/title_activity_it_4thyear"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EEE_1stYear"
+            android:label="@string/title_activity_eee_1st_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EEE_2ndYear"
+            android:label="@string/title_activity_eee_2nd_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EEE_3rdYear"
+            android:label="@string/title_activity_eee_3rd_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EEE_4thYear"
+            android:label="@string/title_activity_eee_4th_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Civil_1stYear"
+            android:label="@string/title_activity_civil_1st_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Civil_3rdYear"
+            android:label="@string/title_activity_civil_3rd_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Civil_2ndYear"
+            android:label="@string/title_activity_civil_2nd_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Civil_4thYear"
+            android:label="@string/title_activity_civil_4th_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Ecm_2ndYear"
+            android:label="@string/title_activity_ecm_2nd_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Ecm_3rdYear"
+            android:label="@string/title_activity_ecm_3rd_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Ecm_1stYear"
+            android:label="@string/title_activity_ecm_1st_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Ecm_4thYear"
+            android:label="@string/title_activity_ecm_4th_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Mech_1stYear"
+            android:label="@string/title_activity_mech_1st_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Mech_2ndYear"
+            android:label="@string/title_activity_mech_2nd_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Mech_4thYear"
+            android:label="@string/title_activity_mech_4th_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Mining_1stYear"
+            android:label="@string/title_activity_mining_1st_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Mining_2ndYear"
+            android:label="@string/title_activity_mining_2nd_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Mining_4thYear"
+            android:label="@string/title_activity_mining_4th_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Mining_3rdYear"
+            android:label="@string/title_activity_mining_5th_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Mech_3rdYear"
+            android:label="@string/title_activity_mech_3rd_year"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+
+    </application>
+
+</manifest>
